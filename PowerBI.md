@@ -1,2 +1,2 @@
 - How to find device name in system?
--search the pc > right click on pc > click on properties
+  - search the pc > right click on this pc > click on **properties** > observe device name
