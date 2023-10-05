@@ -23,11 +23,9 @@ In this project main dashboards are Executive Dashboard, IT Support Dashboard, S
 
 ----
 
-  3. Tableau to Power BI Migration
-  4. Data Catalog
-- 
-- 
-- 
-- 
-- 
-- 
+ # 3. Tableau to Power BI Migration
+ # 4. Data Catalog
+
+   
+  
+  
